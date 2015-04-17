@@ -233,7 +233,7 @@ $ make test
   - Make sure your tests are complete and passing
   - Make sure you follow the style of the rest of our integrations
   - Run `make lint` and make sure that it doesn't complain
-  - Make sure new intgration tests have fixtures
+  - Make sure new integration tests have fixtures
   - Send demo account credentials to integrations@segment.com
 
 ### Pull request
